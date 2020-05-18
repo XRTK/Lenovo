@@ -64,5 +64,7 @@ artifacts/
 ThirdParty/
 ThirdParty.meta
 --Version/
-XRTK.PlatformName/Assets/PlatformName/Profiles
-XRTK.PlatformName/Assets/PlatformName/Profiles.meta
+XRTK.Lenovo/Assets/Lenovo/Profiles
+XRTK.Lenovo/Assets/Lenovo/Profiles.meta
+
+XRTK.Lenovo/Assets/XRTK.Generated/Profiles

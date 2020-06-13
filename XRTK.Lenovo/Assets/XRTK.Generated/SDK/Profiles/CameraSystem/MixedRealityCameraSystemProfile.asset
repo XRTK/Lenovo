@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50519740e1dd4b5f97f104c7dc8d6ae6, type: 3}
+  m_Name: MixedRealityCameraSystemProfile
+  m_EditorClassIdentifier: 
+  configurations:
+  - instancedType:
+      reference: 87225637-2ec7-4e5d-9036-024288baa2bf
+    name: A6 Camera Data Provider
+    priority: 0
+    platformEntries:
+      runtimePlatforms:
+      - reference: c838c4f5-a87e-48c7-8742-09a4d85fc3bc
+      - reference: b1cbd7bb-fce5-434b-b799-6ecf85245f33
+      - reference: dac9ead8-54f9-4935-a27f-9f82f465c972
+    profile: {fileID: 11400000, guid: db224b978c1aa2844b15a54a6e76bac6, type: 2}
+  globalCameraProfile: {fileID: 11400000, guid: 8909ac02651d449aa5dbe020459b9bfd,
+    type: 2}

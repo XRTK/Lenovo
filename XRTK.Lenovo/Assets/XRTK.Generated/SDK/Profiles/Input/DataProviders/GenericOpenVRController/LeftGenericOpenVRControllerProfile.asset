@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d420c170b42dfe0438e2aa2a829775ed, type: 3}
+  m_Name: LeftGenericOpenVRControllerProfile
+  m_EditorClassIdentifier: 
+  controllerType:
+    reference: 8de3a393-71f8-47a4-89fe-7927b034deab
+  handedness: 1
+  visualizationProfile: {fileID: 11400000, guid: 2fdec4f42b86410fb50e0b26b37fbec6,
+    type: 2}
+  useCustomInteractions: 1
+  interactionMappingProfiles:
+  - {fileID: 11400000, guid: 257fa175149f481ea19088d082637888, type: 2}
+  - {fileID: 11400000, guid: 7fe440da0026449aaf84aaa3da33de58, type: 2}
+  - {fileID: 11400000, guid: 580bd3c297f845a2bb743489c6f648bb, type: 2}
+  - {fileID: 11400000, guid: d5f18175a7a84b8a95b45aa9a6c40024, type: 2}
+  - {fileID: 11400000, guid: 4ad2e4c3d7874015a5454e290dd321e4, type: 2}
+  - {fileID: 11400000, guid: 61d3b4fd724244f591c22a63b25d1dcf, type: 2}
+  - {fileID: 11400000, guid: c9dc730046ea416b87c8410e712cabb2, type: 2}
+  - {fileID: 11400000, guid: 40f53a844c4844f0a5e7978f98ba5d63, type: 2}
+  - {fileID: 11400000, guid: 8e98b2af22a146fb9d8c68335a0453ea, type: 2}
+  - {fileID: 11400000, guid: 4527a77816cc4583b0d4e7a8bb399de7, type: 2}
+  - {fileID: 11400000, guid: b1f78895bc9544cbb45418fcfea457cc, type: 2}
+  - {fileID: 11400000, guid: 40222fd91c8c47538cab89a31a3b11b0, type: 2}
+  - {fileID: 11400000, guid: d7767e67b3bd40f3b3ea5fe3bafb6e8d, type: 2}

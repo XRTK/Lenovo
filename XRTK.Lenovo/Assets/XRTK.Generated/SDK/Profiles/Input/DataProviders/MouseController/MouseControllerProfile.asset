@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d420c170b42dfe0438e2aa2a829775ed, type: 3}
+  m_Name: MouseControllerProfile
+  m_EditorClassIdentifier: 
+  controllerType:
+    reference: a80e17f6-8221-49c3-bc4b-cab495c91d6c
+  handedness: 7
+  visualizationProfile: {fileID: 0}
+  useCustomInteractions: 1
+  interactionMappingProfiles:
+  - {fileID: 11400000, guid: 566b509625854254aa0e030d91a9c20d, type: 2}
+  - {fileID: 11400000, guid: c772f41817b1455fb76a042fa0781180, type: 2}
+  - {fileID: 11400000, guid: 85c71e0f44064a23b9a8efb13d2b2b9f, type: 2}
+  - {fileID: 11400000, guid: e5221b0359594554b8e2bbeca1d0c35a, type: 2}
+  - {fileID: 11400000, guid: 6a02785078c94da5a6c3f1b924d11ffa, type: 2}
+  - {fileID: 11400000, guid: 0aa9e9652070483e8ffa25e03d3b5210, type: 2}
+  - {fileID: 11400000, guid: c1aeb93d022c42ef90506054c05f65a8, type: 2}
+  - {fileID: 11400000, guid: 1ca6ddc042f048048b8cc501b122f472, type: 2}
+  - {fileID: 11400000, guid: 05800ff0418d44329608377942bc9eb4, type: 2}
+  - {fileID: 11400000, guid: e3bcaa725e6e43e28be1405c698a36c3, type: 2}

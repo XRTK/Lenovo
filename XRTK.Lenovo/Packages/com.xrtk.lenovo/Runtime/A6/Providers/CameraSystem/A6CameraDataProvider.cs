@@ -1,6 +1,8 @@
 // Copyright (c) XRTK. All rights reserved.
 // Licensed under the MIT License. See LICENSE in the project root for license information.
 
+using UnityEngine;
+using UnityEngine.Scripting;
 using XRTK.Attributes;
 using XRTK.Definitions.CameraSystem;
 using XRTK.Definitions.Platforms;
@@ -14,9 +16,13 @@ namespace XRTK.Lenovo.A6.Providers.CameraSystem
     public class A6CameraDataProvider : BaseCameraDataProvider
     {
         /// <inheritdoc />
+        [Preserve]
         public A6CameraDataProvider(string name, uint priority, BaseMixedRealityCameraDataProviderProfile profile, IMixedRealityCameraSystem parentService)
             : base(name, priority, profile, parentService)
         {
+
+        /// <inheritdoc />
+        public override bool IsOpaque => false;
         }
     }
 }

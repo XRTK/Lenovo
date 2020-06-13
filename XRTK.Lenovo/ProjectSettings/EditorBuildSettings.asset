@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/xrtk.unity
+    guid: 87ad5bded377c1a4b856746d586850a0
   m_configObjects: {}

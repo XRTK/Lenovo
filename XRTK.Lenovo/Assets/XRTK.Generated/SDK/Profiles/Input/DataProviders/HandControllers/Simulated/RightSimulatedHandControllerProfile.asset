@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d420c170b42dfe0438e2aa2a829775ed, type: 3}
+  m_Name: RightSimulatedHandControllerProfile
+  m_EditorClassIdentifier: 
+  controllerType:
+    reference: 435c4f16-8e23-4228-b2b0-5fce09a97043
+  handedness: 2
+  visualizationProfile: {fileID: 11400000, guid: 7dc30c21e77b4e59be46a8239573719f,
+    type: 2}
+  useCustomInteractions: 0
+  interactionMappingProfiles:
+  - {fileID: 11400000, guid: 14ae0a414c4647048c78442d45ee655a, type: 2}
+  - {fileID: 11400000, guid: 059d7504f1094950b6cced23d73ec0d0, type: 2}
+  - {fileID: 11400000, guid: 57abec0ba1264cbcb8e8e91c98f51415, type: 2}
+  - {fileID: 11400000, guid: 318052a6188f42cfadd3faa63adf416a, type: 2}
+  - {fileID: 11400000, guid: d773b6fab4404d09b567dc82d127cc7b, type: 2}
+  - {fileID: 11400000, guid: eff70a90418443bb9a579e74371595bc, type: 2}
+  - {fileID: 11400000, guid: cea735fdad3e437b89bd9f67ba9ecebc, type: 2}
+  - {fileID: 11400000, guid: 430063ab981543bd9dea2a104276c8ef, type: 2}

@@ -1,6 +1,12 @@
 // Copyright (c) XRTK. All rights reserved.
 // Licensed under the MIT License. See LICENSE in the project root for license information.
 
+using UnityEngine;
+using UnityEngine.Scripting;
+
+[assembly: Preserve]
+[assembly: AlwaysLinkAssembly]
+
 namespace XRTK.Definitions.Platforms
 {
     /// <summary>
@@ -14,7 +20,7 @@ namespace XRTK.Definitions.Platforms
         {
             get
             {
-                return false;
+                return true;
             }
         }
 
@@ -23,7 +29,7 @@ namespace XRTK.Definitions.Platforms
         {
             get
             {
-                return false;
+                return Application.isEditor;
             }
         }
     }

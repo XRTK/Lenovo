@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d420c170b42dfe0438e2aa2a829775ed, type: 3}
+  m_Name: XboxControllerProfile
+  m_EditorClassIdentifier: 
+  controllerType:
+    reference: 71e70c1b-9f77-4b69-bfc7-974905bb7702
+  handedness: 0
+  visualizationProfile: {fileID: 0}
+  useCustomInteractions: 0
+  interactionMappingProfiles:
+  - {fileID: 11400000, guid: 13e74b17e75d40f5952932f3068cd8a0, type: 2}
+  - {fileID: 11400000, guid: 3ad6ec71cd134bdd8a431de7100eea28, type: 2}
+  - {fileID: 11400000, guid: 4621fbc0564949d5ac820790ffd98ff2, type: 2}
+  - {fileID: 11400000, guid: d410be7e8c2f47d3899a152b3cd81c56, type: 2}
+  - {fileID: 11400000, guid: 0e6d8297a76a4527ab570bf4c107efa2, type: 2}
+  - {fileID: 11400000, guid: c283fd3f92b44130872c470a7d45db40, type: 2}
+  - {fileID: 11400000, guid: 50d6ccf8f7e14ea8a432af113f9b80fd, type: 2}
+  - {fileID: 11400000, guid: 28fa7d8d5a6d4fa384dfd1865c539d56, type: 2}
+  - {fileID: 11400000, guid: 8c9777a2339c45d1b09e90ebfcc5fd40, type: 2}
+  - {fileID: 11400000, guid: a640820eb5924a8e8346a48b8edfdf69, type: 2}
+  - {fileID: 11400000, guid: 6f72fe47781a44c9a86f60ec841446a0, type: 2}
+  - {fileID: 11400000, guid: a211c26c5eec4c27b0780948d54aedb8, type: 2}
+  - {fileID: 11400000, guid: ca01657db4d34b1bbc51229c0714c075, type: 2}
+  - {fileID: 11400000, guid: c2784f5f11d04ac6b79d933279f818eb, type: 2}
+  - {fileID: 11400000, guid: ec493e0b7911423c93cac21b84ff2461, type: 2}
+  - {fileID: 11400000, guid: a52deb9af5a64a6baf11846851288aa8, type: 2}

@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a51e5acd0c6c547bfb8f97fcf09037, type: 3}
+  m_Name: SimulatedHandControllerDataProviderProfile
+  m_EditorClassIdentifier: 
+  hasSetupDefaults: 1
+  controllerMappingProfiles:
+  - {fileID: 11400000, guid: 06d599ce7c4c4a5d9b40c7f223ca8c81, type: 2}
+  - {fileID: 11400000, guid: f7f0c10711d64363b3b2040ba8348bf6, type: 2}
+  simulatedUpdateFrequency: 0
+  controllerHideTimeout: 0.2
+  defaultDistance: 0.5
+  depthMultiplier: 0.5
+  jitterAmount: 0
+  toggleLeftPersistentKey: 116
+  leftControllerTrackedKey: 304
+  toggleRightPersistentKey: 121
+  rightControllerTrackedKey: 32
+  rotationSpeed: 100
+  poseDefinitions:
+  - {fileID: 11400000, guid: 81e31897597741df8bfacfe93bbbbdbb, type: 2}
+  - {fileID: 11400000, guid: b124e18f29ba4a8ebc09bd02583b5aa9, type: 2}
+  - {fileID: 11400000, guid: c1c4b07da0a04ffa907440ed388b05f7, type: 2}
+  - {fileID: 11400000, guid: eaebcb19e3b24f4684742e9ad999c0ad, type: 2}
+  - {fileID: 11400000, guid: 15a289169cd8401fa95834b064aae3db, type: 2}
+  - {fileID: 11400000, guid: da8f8bd78b6a4f5d8b8d56674d1a1d4c, type: 2}
+  - {fileID: 11400000, guid: 5e5761053a2d4fb5a6e63c09a7d1577f, type: 2}
+  - {fileID: 11400000, guid: b2f675dd455d4fab9bd799cf0175a564, type: 2}
+  handPoseAnimationSpeed: 8
+  handMeshingEnabled: 0
+  handPhysicsEnabled: 0
+  useTriggers: 0
+  boundsMode: 0

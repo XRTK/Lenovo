@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d420c170b42dfe0438e2aa2a829775ed, type: 3}
+  m_Name: LeftWMROpenVRControllerProfile
+  m_EditorClassIdentifier: 
+  controllerType:
+    reference: 193f55d4-44e0-4d3b-82fd-0cb417b3668b
+  handedness: 1
+  visualizationProfile: {fileID: 11400000, guid: 2fdec4f42b86410fb50e0b26b37fbec6,
+    type: 2}
+  useCustomInteractions: 0
+  interactionMappingProfiles:
+  - {fileID: 11400000, guid: 4610f2fae76f4da29db1a9f3948efb5c, type: 2}
+  - {fileID: 11400000, guid: e526bbd2a32041dcb86818ab9b56ab43, type: 2}
+  - {fileID: 11400000, guid: 97d9fb6b14444e2591ccb4deeae199a2, type: 2}
+  - {fileID: 11400000, guid: 944e734f9fbc41c6ba2c34c763c95a04, type: 2}
+  - {fileID: 11400000, guid: 9b6cb0c71b4a4af78677031f9fa4a003, type: 2}
+  - {fileID: 11400000, guid: 873fb25b741d4b64b743db06f56413cb, type: 2}
+  - {fileID: 11400000, guid: 12cbb039772647a397f0cb9ea1abb701, type: 2}
+  - {fileID: 11400000, guid: 29f9700ae1954ecfac6f250e7098b4da, type: 2}
+  - {fileID: 11400000, guid: 5085ccc09b454135a15996017de6b962, type: 2}
+  - {fileID: 11400000, guid: 5b6f492a6a7845d6a14aca6bc2a6fe9e, type: 2}
+  - {fileID: 11400000, guid: 44f809b0a42449b3a35f0e6126fc40a0, type: 2}
+  - {fileID: 11400000, guid: 40f347d5a3b14ac2a47266817b0346fa, type: 2}

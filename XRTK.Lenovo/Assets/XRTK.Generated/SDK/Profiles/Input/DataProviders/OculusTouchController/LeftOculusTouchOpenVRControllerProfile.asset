@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d420c170b42dfe0438e2aa2a829775ed, type: 3}
+  m_Name: LeftOculusTouchOpenVRControllerProfile
+  m_EditorClassIdentifier: 
+  controllerType:
+    reference: f5779130-4990-44f7-a61a-196b34fa3aef
+  handedness: 1
+  visualizationProfile: {fileID: 11400000, guid: 2fdec4f42b86410fb50e0b26b37fbec6,
+    type: 2}
+  useCustomInteractions: 0
+  interactionMappingProfiles:
+  - {fileID: 11400000, guid: 81384805532a4aa4b66dfde5d526122d, type: 2}
+  - {fileID: 11400000, guid: d9b38050ebdd4b6eab0cd8bc89b28da4, type: 2}
+  - {fileID: 11400000, guid: 4232cea13b664d1c96c400697c97fca0, type: 2}
+  - {fileID: 11400000, guid: 78ca1087caf74041b783bac7efcfa259, type: 2}
+  - {fileID: 11400000, guid: c6990c90ee3e44eea45e823a1b8c77c0, type: 2}
+  - {fileID: 11400000, guid: 95c455860db34314ad8f60dbe6b66a0a, type: 2}
+  - {fileID: 11400000, guid: 7d32a2bf2f2c414286f65cbeb401538c, type: 2}
+  - {fileID: 11400000, guid: 9b20828132284a8eaa842b516dfad878, type: 2}
+  - {fileID: 11400000, guid: c682ffbe60a24a26b3f23272927964e0, type: 2}
+  - {fileID: 11400000, guid: 39f8bde7e74748baa2b3d192eaa069c4, type: 2}
+  - {fileID: 11400000, guid: 495679f026c64008af7d89e6026859c8, type: 2}
+  - {fileID: 11400000, guid: be8a5491e6a14aa1a006def4cd1667f0, type: 2}
+  - {fileID: 11400000, guid: 7edf251c4e6f4405bb7c75a6491540c8, type: 2}
+  - {fileID: 11400000, guid: e0c308c3a70f42d489c3145b9fd771be, type: 2}
+  - {fileID: 11400000, guid: e6c9ea48fa7f40b9ae91ed80585aa68a, type: 2}
+  - {fileID: 11400000, guid: 660feb591da84f388222cc97628fecca, type: 2}
+  - {fileID: 11400000, guid: 86772396841b49378133b1c962f503d2, type: 2}
+  - {fileID: 11400000, guid: bebd9353831043ff9bdc48f0cac4d095, type: 2}

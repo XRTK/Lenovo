@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d420c170b42dfe0438e2aa2a829775ed, type: 3}
+  m_Name: OculusGoOpenVRControllerProfile
+  m_EditorClassIdentifier: 
+  controllerType:
+    reference: f57df6f5-167e-45e8-b3f2-195d2c57a3f4
+  handedness: 0
+  visualizationProfile: {fileID: 0}
+  useCustomInteractions: 0
+  interactionMappingProfiles:
+  - {fileID: 11400000, guid: 27217918ec82449598fcee0d19bbf100, type: 2}
+  - {fileID: 11400000, guid: a16d0d46a5874792a9ccaa412e2e98de, type: 2}
+  - {fileID: 11400000, guid: 38bd30f5a55142619c2deff23df59cf7, type: 2}
+  - {fileID: 11400000, guid: 2ca995152a4e4038b4c4583d97829bd1, type: 2}
+  - {fileID: 11400000, guid: 69071700e9624669a7590d9fe36a67c8, type: 2}
+  - {fileID: 11400000, guid: 59e11f7e388145d09518af8bafaf7c83, type: 2}
+  - {fileID: 11400000, guid: 6943857c6091402aa950dd7617a622c8, type: 2}
+  - {fileID: 11400000, guid: 9fae5ded25fa419286be6aefb4475f33, type: 2}
